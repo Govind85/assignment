@@ -26,6 +26,6 @@ spring.datasource.url: jdbc:ucanaccess://C://Users//govkrish//Downloads//account
 
 Run the mvn clean install command and go to target folder and run java -jar assignment-0.0.1-SNAPSHOT.jar
 
-Attaching the screenshots for reference. Please find the test reports HTML file in main direcotry named Test Results - All_in_assignment.
+Attaching the screenshots for reference. Please find the test reports HTML file and Sonar Report inside reports folder.
 
 
